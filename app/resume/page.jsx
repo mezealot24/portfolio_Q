@@ -5,7 +5,6 @@ import {
 	FaCss3,
 	FaJs,
 	FaReact,
-	FaNext,
 	FaFigma,
 	FaNodeJs,
 	FaJava,
@@ -99,7 +98,7 @@ const education = {
 		},
 		{
 			institution: "Rangsit University",
-			degree: "Bachelors' Degree Computer Science",
+			degree: "Bachelor's Degree Computer Science",
 			duration: "2006-2011",
 		},
 	],
@@ -125,10 +124,6 @@ const skills = {
 		{
 			icon: <FaReact />,
 			name: "React.js",
-		},
-		{
-			icon: <FaNext />,
-			name: "Next.js",
 		},
 		{
 			icon: <SiTailwindcss />,
